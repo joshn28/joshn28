@@ -5,8 +5,8 @@ I'm a student at the University of Toronto with an interest in web/software deve
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [joshnobleza@bell.net](mailto:joshnobleza@bell.net)
-* 🧠  I'm learning Software Engineering and Web Development
-* ⚡  I enjoy playing video games and watching basketball
+* 🧠  I'm learning web development
+* ⚡  I enjoy creating projects that will make me a better developer
 
 ### Skills
 
