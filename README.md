@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Nobleza</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://joshn28.github.io/portfolio/](https://joshn28.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://joshua-nobleza.netlify.app/](https://joshua-nobleza.netlify.app/)
 
 - 📫 How to reach me **joshnobleza@bell.net**
 
