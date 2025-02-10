@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua Nobleza</h1>
 <h3 align="center">A passionate analyst/developer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://joshua-nobleza.netlify.app/](https://joshua-nobleza.netlify.app/)
-
 - 📫 How to reach me **joshnobleza@bell.net**
 
 <h3 align="left">Connect with me:</h3>
