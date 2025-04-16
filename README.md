@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Nobleza</h1>
-<h3 align="center">A passionate analyst/developer from Canada</h3>
-
-- 👨‍💻 Some of my data projects are available at **[https://www.datacamp.com/portfolio/joshn](https://www.datacamp.com/portfolio/joshn)**
+<h3 align="center">An aspiring full stack developer from Canada</h3>
 
 - 📫 How to reach me **joshnobleza@bell.net**
 
