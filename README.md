@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Nobleza</h1>
-<h3 align="center">An aspiring full stack developer from Canada</h3>
+<h3 align="center">A full stack developer from Canada</h3>
 
 - 📫 How to reach me **joshnobleza@bell.net**
 
